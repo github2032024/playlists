@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/120px-Russia-today-logo.svg.png", RT
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Arkadag.png", Arkadag
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Altyn_Asyr.png", Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Yashlyk.png", Yaslyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Miras.png", Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png", Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tm-turkmen-owazy-7757-768x576.jpg", Owaz
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Ashgabat_TV.png", Ashgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Turkmenistan_%28TV_channel%29.png", Turkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8

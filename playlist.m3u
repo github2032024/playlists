@@ -1,4 +1,3 @@
-
 #EXTM3U
-#EXTINF:0, RT
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/120px-Russia-today-logo.svg.png", RT
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
